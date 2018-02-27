@@ -772,6 +772,8 @@
 <wire x1="7.62" y1="12.7" x2="7.62" y2="-12.7" width="0.254" layer="94"/>
 <wire x1="7.62" y1="-12.7" x2="-7.62" y2="-12.7" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="-12.7" x2="-7.62" y2="12.7" width="0.254" layer="94"/>
+<text x="7.62" y="15.24" size="1.778" layer="95">&gt;Name</text>
+<text x="7.62" y="12.7" size="1.778" layer="96">&gt;Value</text>
 </symbol>
 <symbol name="ESP32-DEVKITC">
 <description>&lt;b&gt;ESP32-DevKitC ESP-WROOM-32開発ボード&lt;/b&gt;&lt;br&gt; &lt;a href="http://akizukidenshi.com/catalog/g/gM-11819/"&gt;http://akizukidenshi.com/catalog/g/gM-11819/&lt;/a&gt;&lt;br&gt;
